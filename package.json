@@ -1,0 +1,9 @@
+{
+  "name": "jenkins-lab4-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "build": "echo 'Building application...'",
+    "start": "node server.js"
+  }
+}
